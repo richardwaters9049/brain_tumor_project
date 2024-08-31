@@ -139,6 +139,8 @@ python3 src/model_creation.py
 
 The trained model achieves an accuracy of over 90% on the test set, demonstrating its effectiveness in distinguishing between images with and without brain tumours.
 
+![Trained Model](images/testing.png "Accuracy Results")
+
 ### Contributing
 
 Contributions are welcome! Please feel free to open issues or submit pull requests if you have suggestions for improvements or new features.
