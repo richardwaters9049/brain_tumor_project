@@ -106,7 +106,7 @@ Before running the project, ensure you have the following installed:
 You can install the required dependencies using the following command:
 
 ```bash
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 ### Running the Project
@@ -114,13 +114,13 @@ pip install -r requirements.txt
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/brain-tumour-classification.git
+git clone https://github.com/richardwaters9049/brain_tumor_project
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd brain-
+cd brain-tumor_project
 ```
 
 3. Run the main script:
