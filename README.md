@@ -1,5 +1,7 @@
 # Brain Tumour Classification Project
 
+![Brain Scan](/data/raw/yes/Y155.JPG "Tumour Present")
+
 ## Overview
 
 This project is focused on the classification of brain tumour images using Convolutional Neural Networks (CNNs). The primary objective is to accurately distinguish between MRI images that show the presence of brain tumours and those that do not, leveraging deep learning techniques. The model is constructed using TensorFlow and Keras, incorporating a pre-trained VGG16 architecture for effective feature extraction and classification. This project highlights the potential of deep learning in medical image analysis, particularly in the early detection and diagnosis of brain tumours.
